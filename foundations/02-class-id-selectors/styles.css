@@ -1,0 +1,19 @@
+.par {
+	background-color: rgba(255, 0, 0, 0.4);
+	font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#second {
+	color: rgb(0, 0, 255);
+	font-size: 36px;
+}
+
+.par.addfont {
+	font-size: 24px;
+}
+
+#fourth {
+	background-color: rgba(0, 255, 0, 0.5);
+	font-size: 24px;
+	font-weight: bold;
+}
